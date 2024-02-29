@@ -27,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=A52A2A&labelColor=0D1117)&nbsp; 
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=A52A2A&labelColor=0D1117)&nbsp; 
 
 
 
