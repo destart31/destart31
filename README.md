@@ -34,6 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destart31&show_icons=true&theme=dark&locale=en" alt="destart31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=destart31&theme=dark" alt="destart31" /></p>
-
 
