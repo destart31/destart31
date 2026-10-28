@@ -1,37 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur+Gabriel;I'm+24+years+old;I'm+from+Brazil;I+Graduated+Computer+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
-##
+[![Olá, eu sou o Arthur Gabriel](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+Gabriel;Tenho+26+anos;Sou+do+Brasil;Formado+em+Engenharia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo!+%3A%29)](https://github.com/destart31)
 
-- 👨‍💻 Meu portfolio [https://portifolio-arthur.netlify.app](https://portifolio-arthur.netlify.app)
+<br>
 
-- 📫 Como chegar até mim **art31082000@gmail.com**
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00BFFF?style=for-the-badge&logo=netlify&logoColor=white)](https://portifolio-arthur.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurgabriel31)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthurgabriel31)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:art31082000@gmail.com)
 
-<h3 align="left">Onde me achar:</h3>
+</div>
+
+---
+
+### 🛠️ Linguagens e ferramentas
+
 <p align="left">
-<a href="https://linkedin.com/in/arthurgabriel31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-gabriel-587811204" height="30" width="40" /></a>
-<a href="https://instagram.com/arthurgabriel31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurgabriel31" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=php,cs,html,css,js,java,py,mysql,postgres,git,figma" alt="PHP, C#, HTML, CSS, JavaScript, Java, Python, MySQL, PostgreSQL, Git e Figma" />
 </p>
 
-##
+>Também trabalho com SQL Server.
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-##
+### 🎮 Projeto em destaque
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=destart31&show_icons=true&theme=dark&locale=en&layout=compact" alt="destart31" /></p>
+**GameHub**: launcher unificado de jogos para Windows, em C# WPF e .NET 10. Reúne Steam, Epic, GOG, EA App, Ubisoft, emuladores e jogos modificados numa interface estilo console, navegável por controle.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destart31&show_icons=true&theme=dark&locale=en" alt="destart31" /></p>
+---
 
+### 📊 Estatísticas
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/destart31/destart31/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+  <img src="https://raw.githubusercontent.com/destart31/destart31/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/destart31/destart31/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img src="https://raw.githubusercontent.com/destart31/destart31/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Horário mais produtivo" />
+</p>
